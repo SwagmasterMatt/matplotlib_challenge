@@ -2,6 +2,10 @@
 Co-Pilot was installed as an addon in Vs Code - Both instructor and SSM said it was ok to have it installed.
 Classmate Jeremy helped me with conceptual understanding of applied statistics in how each statistical value correlated to the real life scenario of the drugs, mice etc. 
 
+pymaceuticals_Final.ipynb is the file for the assignment.
+
+the starter is included as context.
+
 there are additional libraries outside of the normal assignment to create some special plot annotations using the Math library, importing Ipython as it seems to assist in stability with the magic functions.
 
 Additional commenting was added to allow readback when looking at the statistcal examples.
